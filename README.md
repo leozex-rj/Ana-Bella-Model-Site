@@ -1,2 +1,3 @@
 # Ana-Bella-Model-Site
-<img src="./imagens/clipboard01.jpg">
+
+<img src = "./public/clipboard01.jpg" />
